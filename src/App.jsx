@@ -41,11 +41,19 @@ function App() {
                     Chart
                   </a>
 
-                  <a href="http://" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="http://t.me/bonk_05"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     Telegram
                   </a>
 
-                  <a href="http://" target="_blank" rel="noopener noreferrer">
+                  <a
+                    href="http://x.com/bonk_05"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     X
                   </a>
                 </div>
