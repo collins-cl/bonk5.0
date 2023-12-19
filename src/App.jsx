@@ -25,7 +25,7 @@ function App() {
 
                 <div className="desc">
                   Missed out on $BONK? Here's your chance with generational
-                  wealth opportunity with twice the better on $BONK2.0 !
+                  wealth opportunity with twice the better on $BONK0.5!
                 </div>
 
                 <div className="contract">
