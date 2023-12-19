@@ -29,7 +29,7 @@ function App() {
                 </div>
 
                 <div className="contract">
-                  Mmsmsmsuwdbwubcwbcsycwcbwcubwcbcbjndnscnsj
+                  
                 </div>
 
                 <div className="socials-buy">
